@@ -1,2 +1,2 @@
 # Java
-Kodingan saat kuliah
+Kodingan saat kuliah menggunakan Apache Netbeans
