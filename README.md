@@ -1,2 +1,2 @@
-# Java
-Kodingan saat kuliah menggunakan Apache Netbeans
+# Program Java
+Kodingan Java saat kuliah yang berisi program inventaris barang, pegawai, kalkulator, dll.
